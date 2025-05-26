@@ -1,10 +1,10 @@
 # Site settings
-title: Yannn Blog
+title: Yannn233 Blog
 SEOTitle: 阳楠的博客 | Yannn Blog
 header-img: img/home-bg.jpg
 email: ouyannn233@gmail.com
-description: "这里是 @Yannn 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "阳楠, Yannn, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+description: "这里是 @Yannn233 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "阳楠, Yannn233, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://yannn233.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
